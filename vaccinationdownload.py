@@ -1,5 +1,5 @@
 #---------------------------------------------------------------
-initialdirectoryconfig = 'inialization.py'
+initialdirectoryconfig = 'initialization.py'
 #------------------------------------------------------------------
 who_data_url = 'https://covid19.who.int/who-data/vaccination-data.csv'
 #----------------------------------------------------------------
@@ -50,10 +50,6 @@ def remove_if_exists(removefile):
     try:
         if os.path.exists(removefile):
             os.remove(removefile)
-            
-            pi="\'Old data File is removed.. Downloading new data started \' :"
-            p = ("{}{}".format(pi,removefile))
-            print(p)
             
     except:
         print("Error while deleting file ", removefile)
