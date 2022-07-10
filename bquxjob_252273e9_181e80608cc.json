@@ -1,0 +1,688 @@
+[{
+  "COUNTRY": "Egypt",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Russian Federation",
+  "VACCINES_USED": "SRCVB - EpiVacCorona, Gamaleya - Sputnik V"
+}, {
+  "COUNTRY": "Australia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Fiji",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,SII - Covishield"
+}, {
+  "COUNTRY": "Guernsey",
+  "VACCINES_USED": "Moderna - mRNA-1273, AstraZeneca - AZD1222, Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Israel",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Argentina",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "New Zealand",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Montenegro",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Nauru",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,SII - Covishield"
+}, {
+  "COUNTRY": "French Polynesia",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Bonaire, Sint Eustatius and Saba",
+  "VACCINES_USED": "Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Turkmenistan",
+  "VACCINES_USED": "Anhui ZL - Zifivax,AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,RIBSP - QazVac,SRCVB - EpiVacCorona,Unknown Vaccine"
+}, {
+  "COUNTRY": "Tuvalu",
+  "VACCINES_USED": "AstraZeneca - AZD1222"
+}, {
+  "COUNTRY": "Cambodia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Bosnia and Herzegovina",
+  "VACCINES_USED": "AstraZeneca - AZD1222, Pfizer BioNTech - Comirnaty, Sinovac - CoronaVac, Gamaleya - Sputnik V"
+}, {
+  "COUNTRY": "Kosovo",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Malta",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Papua New Guinea",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Bhutan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Kazakhstan",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Pfizer BioNTech - Comirnaty,RIBSP - QazVac,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Latvia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Serbia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Tajikistan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Bonaire",
+  "VACCINES_USED": null
+}, {
+  "COUNTRY": "Saba",
+  "VACCINES_USED": null
+}, {
+  "COUNTRY": "Sint Eustatius",
+  "VACCINES_USED": null
+}, {
+  "COUNTRY": "Montserrat",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria"
+}, {
+  "COUNTRY": "Cayman Islands",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Martinique",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Turks and Caicos Islands",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Haiti",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax"
+}, {
+  "COUNTRY": "British Virgin Islands",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S"
+}, {
+  "COUNTRY": "French Guiana",
+  "VACCINES_USED": "Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Aruba",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Anguilla",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Bermuda",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Panama",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Cuba",
+  "VACCINES_USED": "CIGB - CIGB-66,Finlay - Soberana Plus,Finlay - Soberana-02"
+}, {
+  "COUNTRY": "Dominican Republic",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Saint Kitts and Nevis",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Puerto Rico",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "United States of America",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Costa Rica",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Curaçao",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Sint Maarten",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Uruguay",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Bahamas",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Grenada",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Ecuador",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,CanSino - Convidecia,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Dominica",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Peru",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Canada",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Saint Lucia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Chile",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,CanSino - Convidecia,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Brazil",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Guatemala",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Suriname",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Colombia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Barbados",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Belize",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Jamaica",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Trinidad and Tobago",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Saint Vincent and the Grenadines",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Guadeloupe",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Venezuela (Bolivarian Republic of)",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,CIGB - CIGB-66,Finlay - Soberana-02,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "El Salvador",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Honduras",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Bolivia (Plurinational State of)",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Mongolia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Antigua and Barbuda",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Mexico",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Guyana",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Paraguay",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,Gamaleya - Gam-Covid-Vac,Julphar - Hayat-Vax,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Malaysia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Nicaragua",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,CIGB - CIGB-66,Finlay - Soberana Plus,Finlay - Soberana-02,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Wallis and Futuna",
+  "VACCINES_USED": "Moderna - Spikevax"
+}, {
+  "COUNTRY": "Belarus",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Chumakov - Covi-Vac,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light"
+}, {
+  "COUNTRY": "Georgia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Italy",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Republic of Moldova",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Solomon Islands",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Vanuatu",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S"
+}, {
+  "COUNTRY": "Niue",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "The United Kingdom",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Falkland Islands (Malvinas)",
+  "VACCINES_USED": "AstraZeneca - AZD1222"
+}, {
+  "COUNTRY": "Afghanistan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Bahrain",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Kuwait",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Morocco",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Qatar",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Pitcairn Islands",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria"
+}, {
+  "COUNTRY": "Liechtenstein",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Saint Helena",
+  "VACCINES_USED": "AstraZeneca - AZD1222"
+}, {
+  "COUNTRY": "New Caledonia",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Singapore",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Sri Lanka",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Maldives",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Nepal",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Thailand",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,SII - Covovax,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Samoa",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Iran (Islamic Republic of)",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Finlay - Soberana-02,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Shifa - COVIran Barakat,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Iraq",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Jordan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Lebanon",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Libya",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "occupied Palestinian territory",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Saudi Arabia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Tunisia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Djibouti",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Oman",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Pakistan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Somalia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Sudan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Syrian Arab Republic",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "United Arab Emirates",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Yemen",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,CanSino - Convidecia,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Eritrea",
+  "VACCINES_USED": null
+}, {
+  "COUNTRY": "Angola",
+  "VACCINES_USED": "SII - Covishield"
+}, {
+  "COUNTRY": "Democratic Republic of the Congo",
+  "VACCINES_USED": "SII - Covishield"
+}, {
+  "COUNTRY": "Liberia",
+  "VACCINES_USED": "SII - Covishield"
+}, {
+  "COUNTRY": "Mali",
+  "VACCINES_USED": "SII - Covishield"
+}, {
+  "COUNTRY": "Nigeria",
+  "VACCINES_USED": "SII - Covishield"
+}, {
+  "COUNTRY": "Togo",
+  "VACCINES_USED": "SII - Covishield"
+}, {
+  "COUNTRY": "Burundi",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV"
+}, {
+  "COUNTRY": "Chad",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV"
+}, {
+  "COUNTRY": "Central African Republic",
+  "VACCINES_USED": "Bharat - Covaxin,SII - Covishield"
+}, {
+  "COUNTRY": "Malawi",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "South Sudan",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Sao Tome and Principe",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,SII - Covishield"
+}, {
+  "COUNTRY": "Ghana",
+  "VACCINES_USED": "Gamaleya - Gam-Covid-Vac,SII - Covishield"
+}, {
+  "COUNTRY": "Gambia",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,SII - Covishield"
+}, {
+  "COUNTRY": "Guinea-Bissau",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,SII - Covishield"
+}, {
+  "COUNTRY": "Mauritania",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,SII - Covishield"
+}, {
+  "COUNTRY": "Niger",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,SII - Covishield"
+}, {
+  "COUNTRY": "Sierra Leone",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,SII - Covishield"
+}, {
+  "COUNTRY": "Equatorial Guinea",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "South Africa",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Comoros",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,SII - Covishield"
+}, {
+  "COUNTRY": "Mauritius",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,SII - Covishield"
+}, {
+  "COUNTRY": "Burkina Faso",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Lesotho",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Madagascar",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Mozambique",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Senegal",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Zambia",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Eswatini",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "United Republic of Tanzania",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Gabon",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Ethiopia",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,Janssen - Ad26.COV 2-S,SII - Covishield"
+}, {
+  "COUNTRY": "Congo",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,SII - Covishield"
+}, {
+  "COUNTRY": "Zimbabwe",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,Gamaleya - Gam-Covid-Vac,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Seychelles",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Julphar - Hayat-Vax,SII - Covishield"
+}, {
+  "COUNTRY": "Algeria",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Cabo Verde",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Cameroon",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Namibia",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Uganda",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Benin",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Kenya",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Côte d’Ivoire",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield"
+}, {
+  "COUNTRY": "Botswana",
+  "VACCINES_USED": "Bharat - Covaxin,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Guinea",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Rwanda",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Switzerland",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Andorra",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Jersey",
+  "VACCINES_USED": "Moderna - mRNA-1273, AstraZeneca - AZD1222, Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Belgium",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Bulgaria",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Iceland",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Norway",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Romania",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Spain",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Sweden",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Denmark",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Finland",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Lithuania",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Cyprus",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Czechia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Estonia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Greece",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Ireland",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Luxembourg",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Poland",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Slovenia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Albania",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Azerbaijan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Austria",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Croatia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "France",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Germany",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Netherlands",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Unknown Vaccine"
+}, {
+  "COUNTRY": "Kyrgyzstan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,RIBSP - QazVac"
+}, {
+  "COUNTRY": "Slovakia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "North Macedonia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac,Wuhan CNBG - Inactivated"
+}, {
+  "COUNTRY": "Hungary",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Uzbekistan",
+  "VACCINES_USED": "Anhui ZL - Zifivax,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac,Unknown Vaccine"
+}, {
+  "COUNTRY": "Portugal",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "China",
+  "VACCINES_USED": "Anhui ZL - Zifivax,Beijing CNBG - BBIBP-CorV,CanSino - Convidecia,IMB - Covidful,Pfizer BioNTech - Comirnaty,Shenzhen - LV-SMENP-DC,Sinovac - CoronaVac,Wuhan CNBG - Inactivated"
+}, {
+  "COUNTRY": "Turkey",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty, Sinovac - CoronaVac, Turkovac"
+}, {
+  "COUNTRY": "Tonga",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Greenland",
+  "VACCINES_USED": "Moderna - mRNA-1273"
+}, {
+  "COUNTRY": "Brunei Darussalam",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Kiribati",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV"
+}, {
+  "COUNTRY": "Faroe Islands",
+  "VACCINES_USED": "Moderna - mRNA-1273, Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Isle of Man",
+  "VACCINES_USED": "Moderna - mRNA-1273, AstraZeneca - AZD1222, Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Japan",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Philippines",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Bharat - Covaxin,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Julphar - Hayat-Vax,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Republic of Korea",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Viet Nam",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,CIGB - CIGB-66,Gamaleya - Gam-Covid-Vac,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "American Samoa",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Guam",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Marshall Islands",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Palau",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Micronesia (Federated States of)",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Ukraine",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Armenia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac,Wuhan CNBG - Inactivated"
+}, {
+  "COUNTRY": "San Marino",
+  "VACCINES_USED": "Gamaleya - Gam-Covid-Vac,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Bangladesh",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "India",
+  "VACCINES_USED": "Bharat - Covaxin,Biological E - Corbevax,Gamaleya - Gam-Covid-Vac,Janssen - Ad26.COV 2-S,Moderna - Spikevax,SII - Covishield,SII - Covovax,Zydus - ZyCov-D"
+}, {
+  "COUNTRY": "Indonesia",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Timor-Leste",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Myanmar",
+  "VACCINES_USED": "Beijing CNBG - BBIBP-CorV,SII - Covishield"
+}, {
+  "COUNTRY": "Lao People\u0027s Democratic Republic",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Beijing CNBG - BBIBP-CorV,Gamaleya - Gam-Covid-Vac,Gamaleya - Sputnik-Light,Janssen - Ad26.COV 2-S,Pfizer BioNTech - Comirnaty,SII - Covishield,Sinovac - CoronaVac"
+}, {
+  "COUNTRY": "Cook Islands",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Northern Mariana Islands (Commonwealth of the)",
+  "VACCINES_USED": "Janssen - Ad26.COV 2-S,Moderna - Spikevax,Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Gibraltar",
+  "VACCINES_USED": "AstraZeneca - AZD1222, Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Tokelau",
+  "VACCINES_USED": "Pfizer BioNTech - Comirnaty"
+}, {
+  "COUNTRY": "Monaco",
+  "VACCINES_USED": "AstraZeneca - Vaxzevria,Janssen - Ad26.COV 2-S,Moderna - Spikevax,Novavax - Covavax,Novavax-NUVAXOVID,Pfizer BioNTech - Comirnaty"
+}]
